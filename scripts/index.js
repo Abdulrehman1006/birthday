@@ -263,7 +263,7 @@ function remove_node (node){
 
 
 const config = {
-  birthdate: 'june 20, 2025',
+  birthdate: 'june 25, 2025',
   name: 'Alisa'
 };
     let score = 0;
