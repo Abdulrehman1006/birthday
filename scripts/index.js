@@ -123,7 +123,7 @@ function startGallery() {
     finalImg.className = "final-img";
 
     const finalText = document.createElement("p");
-    finalText.textContent = "Find My Shoes – A Shoe Discovery and Redirection PlatformA centralized listing platform that aggregates shoe listings from various brands and online stores, enabling users to easily discover, filter, and redirect to the original brand's website for purchase.";
+    finalText.textContent = "Happy 21st birthday to my favourite person I am thankful to Allah that I met you.You taught me things which no one taught me before.You have done things for me which no one ever did they may be small to you but for me they mean the world to me.The amount of happiness you have given me since we became friends no ever made me this happy or made me smile this much.I just can't get my head over the fact what deed of mine made Allah happy that you came in my life.You're just perfect in every single aspect there is just keep smiling because you deserve to smile.Alisa I will always be grateful for every single thing you did for me and everything you taught me.If there's a concept of another life I'll choose to be your friend in every single life.I don't know if you wouldn't be in my life what would have happened to me in simple words I was in a world filled with darkness and you came in my life as a light in that darkness I hope this friendship stays there forever thank you for every single thing you ever did for me Alisa once again I wish you a very happy birthday 🎈🎂🥳";
     finalText.className = "final-text";
 
     // var bp = toBirthdayBtn.parentNode ;
@@ -263,7 +263,7 @@ function remove_node (node){
 
 
 const config = {
-  birthdate: 'june 26, 2025',
+  birthdate: 'june 20, 2025',
   name: 'Alisa'
 };
     let score = 0;
